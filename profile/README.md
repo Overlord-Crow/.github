@@ -4,7 +4,7 @@
 ### What can we find on this repo ? 
 #### For now only Nova Prospekts Website is aviable \n we are planning on making Novs's entire source code public 
 
-###Check out Novas website out here[]
+###Check out Novas website out [here](https://overlord-crow.github.io/NovaWebApp/)
 <!--
 
 **Here are some ideas to get you started:**
